@@ -1,6 +1,5 @@
 package symmetric;
 
-import javax.swing.tree.TreeNode;
 
 /**
  * Definition for a binary tree node.

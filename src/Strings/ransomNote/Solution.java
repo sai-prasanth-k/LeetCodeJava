@@ -1,4 +1,4 @@
-package ransomNote;
+package Strings.ransomNote;
 
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {

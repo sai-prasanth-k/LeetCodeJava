@@ -2,7 +2,7 @@ package Strings.pangram;
 
 import java.util.*;
 
-class Set {
+class Sett {
     public boolean checkIfPangram(String sentence) {
         Set<Character> map = new HashSet<Character>();
         for(char current :sentence.toCharArray()){

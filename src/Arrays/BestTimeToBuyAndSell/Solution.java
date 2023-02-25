@@ -1,6 +1,8 @@
 package Arrays.BestTimeToBuyAndSell;
 
 class Solution {
+    //Kadane Algorithm
+    // It is used find the maximum sum of subarray
     public int maxProfit(int[] prices) {
         int minBuy = prices[0];
         int profit = 0;
